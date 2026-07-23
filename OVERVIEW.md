@@ -79,9 +79,9 @@ live rather than against a static import:
 - A day slicer lets a specific session's data be viewed in isolation, independent of any other
   day's accumulated history in the same tables
 
-![FX Rate Movement line chart and FX Spot Rates Table](docs/images/dashboard_line_chart1.png)
-![Selected Currency Pair 1](docs/images/dashboard_spot_rates.png)
-![Selected Currency Pair 2](docs/images/dashboard_spot_rates.png)
+![FX Rate Movement line chart and FX Spot Rates Table](/images/dashboard_line_chart1.png)
+![Selected Currency Pair 1](/images/dashboard_spot_rates.png)
+![Selected Currency Pair 2](/images/dashboard_spot_rates.png)
 
 
 ## Engineering notes worth calling out
