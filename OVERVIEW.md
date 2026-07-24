@@ -38,9 +38,9 @@ Orchestrated end-to-end as a single Databricks Job (`fx_rates_pipeline`), trigge
 with each stage running on ephemeral Job Compute that auto-terminates the moment its task
 finishes — no compute is left running (and billing) between scheduled runs.
 
-![Job trigger schedule](docs/images/job_trigger_schedule.png)
+![Job trigger schedule](/images/job_trigger_schedule.png)
 
-![Pipeline Run](docs/images/pipeline_run.png)
+![Pipeline Run](/images/pipeline_run.png)
 
 
 ## Pipeline stages
@@ -80,8 +80,8 @@ live rather than against a static import:
   day's accumulated history in the same tables
 
 ![FX Rate Movement line chart and FX Spot Rates Table](/images/dashboard_line_chart1.png)
-![Selected Currency Pair 1](/images/dashboard_spot_rates.png)
-![Selected Currency Pair 2](/images/dashboard_spot_rates.png)
+![Selected Currency Pair 1](/images/dashboard_line_chart2.png)
+![Selected Currency Pair 2](/images/dashboard_line_chart3.png)
 
 
 ## Engineering notes worth calling out
