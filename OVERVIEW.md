@@ -1,6 +1,6 @@
 # FX Rates Near-Real-Time Pipeline — Project Overview
 
-A Capital Markets BI lab built on Azure Databricks: a live FX currency-pair feed is ingested,
+An API ingestion BI lab built on Azure Databricks: a live FX currency-pair feed is ingested,
 cleaned, and modeled through a bronze / silver / gold lakehouse, then served to a near-real-time
 Power BI dashboard. Built end-to-end — cloud provisioning, ingestion, transformation, orchestration,
 and reporting — as a hands-on demonstration of a modern lakehouse pattern applied to market data.
